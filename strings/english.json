@@ -1,0 +1,39 @@
+{
+  "language_id": "eng",
+  "suchness_bucket": "western_analytic",
+  "direction": "LTR",
+  "icon_placement": "before",
+  "ui": {
+    "app_title": "Tesserae v0.2",
+    "select_language": "Select language (eng/tel): ",
+    "menu_title": "--- Menu ---",
+    "menu_create_mixtape": "1. Create new mixtape",
+    "menu_switch_mixtape": "2. Switch mixtape",
+    "menu_add_statement": "3. Add statement (🔒/🚧/⚖️)",
+    "menu_show_map": "4. Show current mixtape map",
+    "menu_save": "5. Save mixtape",
+    "menu_load": "6. Load mixtape",
+    "menu_exit": "7. Save and exit",
+    "prompt_mixtape_name": "Mixtape name: ",
+    "prompt_statement": "Your statement: ",
+    "prompt_concept": "Concept (1/2/3): ",
+    "prompt_filename": "Filename: ",
+    "error_no_mixtape": "No active mixtape. Create or switch to one first.",
+    "error_invalid_choice": "Invalid choice.",
+    "saved": "Saved.",
+    "loaded": "Loaded.",
+    "added": "Statement added.",
+    "clm_prompt_thesis": "State your inquiry or thesis: ",
+    "clm_review_thesis": "I extracted the following thesis:\n\nTarget (T): {T}\nMechanism (M): {M}\nPermanent outcome (IST): {IST}\n\nIs this correct? (yes/no/edit): ",
+    "clm_edit_thesis": "Please restate your thesis clearly: ",
+    "clm_constraints": "Declare your constraints (time, budget, scope, etc.): ",
+    "clm_refusal": "This request narrows the pathway between a defined mechanism and an irreversible structural transition. The model does not complete such PT→IST. Cannot proceed.",
+    "clm_pass": "Thesis passes safety check. Proceed to structured inquiry.",
+    "clm_error_no_thesis": "No clear thesis detected. Please state what you want to explore."
+  },
+  "concept_mappings": {
+    "1": "invariant",
+    "2": "constraint",
+    "3": "tradeoff"
+  }
+}

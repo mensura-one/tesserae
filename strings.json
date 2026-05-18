@@ -1,0 +1,50 @@
+{
+  "version": "0.1",
+  "languages": ["english", "telugu"],
+  "strings": {
+    "menu_title": {
+      "english": "--- Menu ---",
+      "telugu": "--- మెను ---"
+    },
+    "menu_create_string": {
+      "english": "1. Create new string",
+      "telugu": "1. కొత్త స్ట్రింగ్ సృష్టించండి"
+    },
+    "menu_switch_string": {
+      "english": "2. Switch string",
+      "telugu": "2. స్ట్రింగ్ మార్చండి"
+    },
+    "menu_add_statement": {
+      "english": "3. Add statement (🔒/🚧/⚖️)",
+      "telugu": "3. స్టేట్మెంట్ జోడించండి (🔒/🚧/⚖️)"
+    },
+    "menu_show_map": {
+      "english": "4. Show current string map",
+      "telugu": "4. ప్రస్తుత స్ట్రింగ్ మ్యాప్ చూపించు"
+    },
+    "menu_save_exit": {
+      "english": "5. Save and exit",
+      "telugu": "5. సేవ్ చేసి నిష్క్రమించండి"
+    },
+    "prompt_string_name": {
+      "english": "String name: ",
+      "telugu": "స్ట్రింగ్ పేరు: "
+    },
+    "prompt_statement": {
+      "english": "Your statement: ",
+      "telugu": "మీ స్టేట్మెంట్: "
+    },
+    "prompt_concept": {
+      "english": "Choice (1/2/3): ",
+      "telugu": "ఎంపిక (1/2/3): "
+    },
+    "error_no_string": {
+      "english": "No active string. Create or switch to one first.",
+      "telugu": "చురుకైన స్ట్రింగ్ లేదు. ముందుగా సృష్టించండి లేదా మార్చండి."
+    },
+    "error_invalid_choice": {
+      "english": "Invalid choice.",
+      "telugu": "చెల్లని ఎంపిక."
+    }
+  }
+}

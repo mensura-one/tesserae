@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "suchness_buckets": {
+    "western_analytic": ["eng"],
+    "dravidian": ["tel"]
+  },
+  "concepts": {
+    "1": {
+      "suchness": "that which must remain true",
+      "default_icon": "🔒"
+    },
+    "2": {
+      "suchness": "a boundary that can bend",
+      "default_icon": "🚧"
+    },
+    "3": {
+      "suchness": "a relationship between choices",
+      "default_icon": "⚖️"
+    }
+  }
+}
+
