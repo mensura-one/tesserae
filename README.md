@@ -12,14 +12,6 @@ Tesserae is a language-agnostic, model-agnostic, user-owned structured inquiry e
 - Mixtapes (invariants 🔒, constraints 🚧, tradeoffs ⚖️)
 - Save/load to JSON
 
-## License
-
-- Core code: MIT
-- Plaintext pieces and language skins: CC BY
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Manifesto
 
@@ -34,6 +26,15 @@ See [MANIFESTO.md](MANIFESTO.md)
 5. Save and load as JSON
 
 Requires: Python 3.8+
+
+## License
+
+- Core code: MIT
+- Plaintext pieces and language skins: CC BY
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 
