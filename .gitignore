@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Old versions (keep local)
+archive/
+tesserae_v02.py
+tesserae_v04.py
+cli.py
+
+# Failed experiments
+extractor.py
+
+# User data (private)
+tesserae_save.json
+*.json.save
+
+# Replaced files
+concepts.json
+strings.json
+run
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS garbage
+.DS_Store
+Thumbs.db
+
