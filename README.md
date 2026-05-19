@@ -1,40 +1,27 @@
-\# Tesserae
+# Tesserae
 
+**Structured inquiry for aspiring builders, young builders, and accessible audiences.**
 
+Tesserae is a language-agnostic, model-agnostic, user-owned structured inquiry engine.
 
-\*\*Structured inquiry for aspiring builders, young builders, and accessible audiences.\*\*
+## Current Status (v0.3)
 
+- CLI with language skins (English, Telugu)
+- CLM keyword gate (safety fence, PT→IST)
+- User confirmation and edit branch
+- Mixtapes (invariants 🔒, constraints 🚧, tradeoffs ⚖️)
+- Save/load to JSON
 
+## License
 
-Tesserae is a language-agnostic, model-agnostic, user-owned structured inquiry engine. It helps you think through complex decisions — car purchases, art projects, enunciation practice, or any domain — with safety (CLM), determinism (Onion), and community-driven patterns (Plaintext).
+- Core code: MIT
+- Plaintext pieces and language skins: CC BY
 
+## Contributing
 
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-\## Quick Start
+## Manifesto
 
-
-
-```bash
-
-python tesserae\_v03.py
-
-
-
-Select language (english/telugu), then:
-
-
-
-· Create a mixtape
-
-· Add invariants (🔒), constraints (🚧), tradeoffs (⚖️)
-
-· CLM ensures safety
-
-· Onion snapshots your progress
-
-
-
-
-
-
+See [MANIFESTO.md](MANIFESTO.md)
 
