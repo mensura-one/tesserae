@@ -8,7 +8,7 @@
 
 
 
-\*\*Structured inquiry for aspiring builders, young builders, and accessible audiences. No one thinks alone.\*\*
+\*\*Accessible structure to think, decide, or create..\*\*
 
 
 

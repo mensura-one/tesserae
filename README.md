@@ -1,6 +1,6 @@
 # Tesserae
 
-**Structured inquiry for aspiring builders, young builders, and accessible audiences.**
+**Accessible structure to think, decide, or create.**
 
 Tesserae is a language-agnostic, model-agnostic, user-owned structured inquiry engine.
 
