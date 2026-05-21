@@ -1,0 +1,22 @@
+{
+  "domain": "Car Purchase",
+  "invariants": [
+    {
+      "text": "eliability is non-negotiable",
+      "timestamp": "2026-05-21T16:49:12.423998"
+    }
+  ],
+  "constraints": [
+    {
+      "text": "budget under $22,000",
+      "timestamp": "2026-05-21T16:49:30.447500"
+    }
+  ],
+  "tradeoffs": [
+    {
+      "text": "tech features vs. reliability",
+      "timestamp": "2026-05-21T16:49:42.015022"
+    }
+  ],
+  "saved": "2026-05-21T16:49:57.422442"
+}
