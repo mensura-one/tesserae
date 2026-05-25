@@ -14,6 +14,7 @@ extractor.py
 # User data (private)
 tesserae_save.json
 *.json.save
+car_purchase.json
 
 # Replaced files
 concepts.json

@@ -1,0 +1,28 @@
+TESSERAE CORE INDEX
+Version: 0.1
+Author: mensura-one
+Status: Contestable
+
+FAMILY 1 — Invariant
+What must remain true.
+Cannot bend. Cannot be traded.
+If violated, the instance is broken.
+
+FAMILY 2 — Constraint
+What bounds the inquiry.
+Can bend under pressure.
+Bending must be declared, not silent.
+
+FAMILY 3 — Tradeoff
+What is in tension.
+Two things that cannot both be fully satisfied.
+User declares which weighs heavier.
+
+---
+Notes:
+- Family numbers do not imply execution order
+- Decimals hold nuance within a family
+- All IDs are unique identifiers
+- This index is the seed. Community proposes additions.
+
+
