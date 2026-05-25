@@ -1,4 +1,4 @@
-# Tesserae
+# tesserae
 
 **Accessible structure to think, decide, or create.**
 
