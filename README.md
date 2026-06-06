@@ -2,39 +2,40 @@
 
 **Accessible structure to think, decide, or create.**
 
-Tesserae is a language-agnostic, model-agnostic, user-owned structured inquiry engine.
+Tesserae is a language-agnostic, model-agnostic, user-owned structured inquiry workbench.
 
-## Current Status (v0.3)
+## Current Status (Stage 1)
 
-- CLI with language skins (English, Telugu)
-- CLM keyword gate (safety fence, PT→IST)
-- User confirmation and edit branch
-- Mixtapes (invariants 🔒, constraints 🚧, tradeoffs ⚖️)
-- Save/load to JSON
-
-
-## Manifesto
-
-See [MANIFESTO.md](MANIFESTO.md)
+- Persistent instances (one JSON file per inquiry)
+- Hypothesis, domain, and dimensionality declaration
+- Invariants 🔒, constraints 🚧, tradeoffs ⚖️
+- Candidates with status lifecycle (active, held, dropped with reason, selected)
+- Full snapshot history (every action preserved, no overwrite)
+- Edit or remove any entry in place
+- Non-linear, conversational menu (no blank prompt)
+- Language skins (English, Telugu) – more can be added via `strings/` folder
+- CLM gate on instance creation
+- Auto‑save on every action
+- Park / wind‑down status for instances
 
 ## Quick Start
 
 1. Clone the repo
-2. Run `python tesserae_v03.py`
-3. Select language (english/telugu)
-4. Create a mixtape and add invariants (🔒), constraints (🚧), tradeoffs (⚖️)
-5. Save and load as JSON
+2. Run `python tesserae_v08.py`
+3. Select language (english / telugu)
+4. Create a new instance (name, hypothesis, domain, dimensionality)
+5. Add invariants, constraints, tradeoffs, and candidates
+6. Edit, remove, or park entries as your inquiry evolves
+7. Snapshots are saved automatically — your history is preserved
 
 Requires: Python 3.8+
+
+## Documentation
+
+- [Manifesto](MANIFESTO.md)
+- [Contributing](CONTRIBUTING.md)
 
 ## License
 
 - Core code: MIT
 - Plaintext pieces and language skins: CC BY
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-
